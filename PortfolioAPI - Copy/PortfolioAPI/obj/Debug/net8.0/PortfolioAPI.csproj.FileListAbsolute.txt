@@ -1,0 +1,200 @@
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.exe
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.deps.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.runtimeconfig.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.pdb
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.AssemblyReference.cache
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfoInputs.cache
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfo.cs
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.CoreCompileInputs.cache
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioAPI.props
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioAPI.props
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioAPI.props
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\scopedcss\bundle\PortfolioAPI.styles.css
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\Portfoli.E6EF8B96.Up2Date
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\refint\PortfolioAPI.dll
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.pdb
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.genruntimeconfig.cache
+C:\Users\TarunSinghMAQSoftwar\Desktop\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\ref\PortfolioAPI.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.Development.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.exe
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.deps.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.runtimeconfig.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.pdb
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Google.Protobuf.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\MySql.Data.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\ZstdSharp.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.AssemblyReference.cache
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.GeneratedMSBuildEditorConfig.editorconfig
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfoInputs.cache
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfo.cs
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.CoreCompileInputs.cache
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cs
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cache
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.build.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.development.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioAPI.props
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioAPI.props
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioAPI.props
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.pack.json
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\scopedcss\bundle\PortfolioAPI.styles.css
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\Portfoli.E6EF8B96.Up2Date
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\refint\PortfolioAPI.dll
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.pdb
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.genruntimeconfig.cache
+d:\VS Code\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\ref\PortfolioAPI.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\appsettings.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.exe
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.deps.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.runtimeconfig.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.pdb
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.AssemblyReference.cache
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfoInputs.cache
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfo.cs
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.CoreCompileInputs.cache
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioAPI.props
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioAPI.props
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioAPI.props
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\scopedcss\bundle\PortfolioAPI.styles.css
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\Portfoli.E6EF8B96.Up2Date
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\refint\PortfolioAPI.dll
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.pdb
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.genruntimeconfig.cache
+c:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI\PortfolioAPI\obj\Debug\net8.0\ref\PortfolioAPI.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.exe
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.deps.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.runtimeconfig.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\PortfolioAPI.pdb
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.AssemblyReference.cache
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfoInputs.cache
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.AssemblyInfo.cs
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.csproj.CoreCompileInputs.cache
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.PortfolioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.PortfolioAPI.props
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PortfolioAPI.props
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PortfolioAPI.props
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\scopedcss\bundle\PortfolioAPI.styles.css
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\Portfoli.E6EF8B96.Up2Date
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\refint\PortfolioAPI.dll
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.pdb
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\PortfolioAPI.genruntimeconfig.cache
+C:\Users\AkshitaSharmaMAQSoft\Downloads\Assignments\PortfolioAPI - Copy\PortfolioAPI\obj\Debug\net8.0\ref\PortfolioAPI.dll
